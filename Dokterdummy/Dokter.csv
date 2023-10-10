@@ -1,0 +1,7 @@
+dokter_id,nama,jenis_kelamin,spesialis,createdAt,updatedAt
+1,"Dr. Rival Sp.JP",Pria,"Spesialis Jantung","2023-10-09 18:02:43","2023-10-09 18:04:19"
+2,"Dr. Fahru Sp.M",Pria,"Spesialis Mata","2023-10-09 18:02:43","2023-10-09 18:02:43"
+3,"Dr. Aya Sp.D",Wanita,"Spesialis Penyakit Dalam","2023-10-09 18:02:43","2023-10-09 18:02:43"
+4,"Dr. Lisa Sp.J",Wanita,"Spesialis Jiwa","2023-10-09 18:02:43","2023-10-09 18:02:43"
+5,"Dr. Rini Sp.B",Wanita,"Spesialis Bedah","2023-10-09 18:02:43","2023-10-09 18:02:43"
+6,"Dr. Farsya Sp.Anak",Wanita,"Spesialis Anak","2023-10-09 18:02:43","2023-10-09 18:02:43"
